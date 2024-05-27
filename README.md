@@ -13,3 +13,5 @@ For the articles, I improvised the general aesthetics in `Article.fig` and then 
 I also designed a favicon. It's just the profile picture I use pretty much everywhere (`media/profile_pic.png`) drawn schematically on Illustrator (`favicon.ai`). I played around with different colors and sizes for the background circle (`favicon_variations/`). Black looked really good but it was hard to distinguish when scaled to 32x32 pixels, so I ended up taking a shade of gray.
 
 I didn't want to design how math rendering would look, as I understand that adapting to the aesthetics of pre-existing technologies like [MathJax](https://www.mathjax.org/) is simply more efficient. Never forget Pareto's Principle.
+
+Update: the SQL database design can be found at [My DrawSQL account](https://drawsql.app/teams/uceniklabs/diagrams/personalwebsite).
